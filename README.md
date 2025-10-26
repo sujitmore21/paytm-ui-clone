@@ -214,4 +214,4 @@ The app replicates the authentic Paytm interface with modern UI design and smoot
 
 ## License
 
-This project is for educational purposes and demonstrates Flutter UI development skills.
+This project is for educational purposes and demonstrates Flutter UI development skills.# paytm-ui-clone
