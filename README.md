@@ -171,7 +171,7 @@ Modular widget structure for:
 The app replicates the authentic Paytm interface with modern UI design and smooth user interactions:
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
+![Home Screen](assets/screenshots/Screenshot1.png)
 - Clean white card layouts with Paytm brand colors
 - UPI Money Transfer section with proper Material Icons
 - Recharge & Bills card with service options
@@ -180,7 +180,7 @@ The app replicates the authentic Paytm interface with modern UI design and smoot
 - Floating Scan QR button
 
 ### 📱 Profile Screen
-![Profile Screen](assets/screenshots/profile_screen.png)
+![Profile Screen](assets/screenshots/Screenshot4.png)
 - Personal/Business tab navigation
 - User profile with verification status
 - QR code display with UPI ID
@@ -189,11 +189,17 @@ The app replicates the authentic Paytm interface with modern UI design and smoot
 - Paytm Security Shield section
 
 ### 💳 Recharge & Bills Popup
-![Recharge & Bills Popup](assets/screenshots/recharges_and_bills_popup.png)
+![Recharge & Bills Popup](assets/screenshots/Screenshot3.png)
 - 3x3 grid of service options
 - Clean modal design with proper spacing
 - Service categories: Credit cards, insurance, mobile, broadband, gas, DTH, Google Play
 - "No Fee" promotional tags
+
+### 📱 Additional Screen
+![Additional Screen](assets/screenshots/Screenshot2.png)
+- Additional app functionality and features
+- Enhanced user interface components
+- Extended service options and navigation
 
 ### Key Design Features
 - **Warm gradient backgrounds** matching Paytm's brand
