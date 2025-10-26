@@ -326,7 +326,7 @@ class _ProfileScreenState extends State<ProfileScreen>
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                "Union Bank Of India - 3563",
+                                "HDFC Bank - 8888",
                                 style: GoogleFonts.inter(
                                   fontSize: 16,
                                   fontWeight: FontWeight.w600,
@@ -438,7 +438,7 @@ class _ProfileScreenState extends State<ProfileScreen>
                     child: Padding(
                       padding: const EdgeInsets.all(8),
                       child: SvgPicture.asset(
-                        AssetHelper.bhimIcon,
+                        assetsHelper.bhimIcon,
                         width: 34,
                         height: 34,
                       ),

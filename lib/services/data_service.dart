@@ -4,7 +4,7 @@ class DataService {
   static UserData getCurrentUser() {
     return UserData(
       name: "John Doe",
-      profileImage: "assets/images/profile.jpg",
+      profileImage: "assetss/images/profile.jpg",
       upiId: "8888888888@ptyes",
       bankName: "HDFC Bank",
       accountLastFour: "8888",

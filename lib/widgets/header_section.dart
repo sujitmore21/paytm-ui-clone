@@ -53,7 +53,7 @@ class HeaderSection extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.start,
               children: [
-                SvgPicture.asset(AssetHelper.paytmLogo48, height: 60),
+                SvgPicture.asset(assetsHelper.paytmLogo48, height: 60),
                 const SizedBox(width: 4),
                 Icon(Icons.favorite, color: AppTheme.heartRed, size: 24),
                 const SizedBox(width: 4),
@@ -69,7 +69,7 @@ class HeaderSection extends StatelessWidget {
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(8),
                   ),
-                  child: SvgPicture.asset(AssetHelper.bhimIcon, height: 24),
+                  child: SvgPicture.asset(assetsHelper.bhimIcon, height: 24),
                 ),
               ],
             ),

@@ -34,7 +34,7 @@ class UserRepositoryImpl implements UserRepository {
 
     return const UserModel(
       name: "John Doe",
-      profileImage: "assets/images/profile.jpg",
+      profileImage: "assetss/images/profile.jpg",
       upiId: "8888888888@ptyes",
       bankName: "HDFC Bank",
       accountLastFour: "8888",
@@ -60,7 +60,7 @@ class TransactionRepositoryImpl implements TransactionRepository {
     return [
       TransactionModel(
         id: "1",
-        senderName: "Priya D",
+        senderName: "Deepak M",
         amount: 95900.0,
         timestamp: DateTime.now().subtract(const Duration(minutes: 30)),
         type: "received",

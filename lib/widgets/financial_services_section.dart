@@ -50,7 +50,7 @@ class FinancialServicesSection extends StatelessWidget {
                           ),
                           const SizedBox(width: 8),
                           Image.asset(
-                            AssetHelper.loveIcon,
+                            assetsHelper.loveIcon,
                             width: 20,
                             height: 20,
                           ),

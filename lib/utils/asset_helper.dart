@@ -1,6 +1,6 @@
-class AssetHelper {
-  // Base path for assets
-  static const String _basePath = 'asset/';
+class assetsHelper {
+  // Base path for assetss
+  static const String _basePath = 'assets/';
 
   // Paytm Icons
   static const String paytmLogo144 = '${_basePath}icons8-paytm-144.svg';

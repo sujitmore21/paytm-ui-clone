@@ -33,8 +33,8 @@ class UpiMoneyTransferCard extends StatelessWidget {
                 title: "Scan \nPay",
                 onTap: () {},
               ),
-              _buildActionItemWithAsset(
-                assetPath: AssetHelper.bhimIcon,
+              _buildActionItemWithassets(
+                assetsPath: assetsHelper.bhimIcon,
                 title: "BHIM \nUPI",
                 onTap: () {},
               ),
@@ -88,8 +88,8 @@ class UpiMoneyTransferCard extends StatelessWidget {
     );
   }
 
-  Widget _buildActionItemWithAsset({
-    required String assetPath,
+  Widget _buildActionItemWithassets({
+    required String assetsPath,
     required String title,
     required VoidCallback onTap,
   }) {
@@ -106,7 +106,7 @@ class UpiMoneyTransferCard extends StatelessWidget {
             ),
             child: Padding(
               padding: const EdgeInsets.all(12),
-              child: SvgPicture.asset(assetPath, width: 36, height: 36),
+              child: SvgPicture.asset(assetsPath, width: 36, height: 36),
             ),
           ),
           const SizedBox(height: 8),
